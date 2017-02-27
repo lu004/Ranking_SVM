@@ -34,12 +34,3 @@ pl.ylabel('score')
 pl.show()
 
 
-
-
-# y=[]
-# for i in train:
-#    if i<88:
-#       y.append((0,0))
-#    else:
-#       y.append((1,0))
-# y=np.asarray(y)
