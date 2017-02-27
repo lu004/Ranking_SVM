@@ -18,3 +18,4 @@ to recommend a item x from a set of items {x}
 - finding most simimlar items (in test data) with items of high grade (in the train data)
 
 2017/02/27
+Jun-Li Lu
