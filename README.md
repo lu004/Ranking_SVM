@@ -1,12 +1,12 @@
 # ranking SVM (python)
-ランキング機会学習利用して最適のオブジェクト推薦\n
-to recommend a item x from a set of items {x}
+ランキング機会学習利用して最適のオブジェクト推薦
 # item x: ("x.csv")
 x has feature values
 a label of grade-level y
 # grade-level y: ("y.csv")
 y consists of grade (the first) and query id (the second)
 
+- to recommend a item x from a set of items {x}
 - items are compared if items are in the same query id
 - train data: all x,y
 - test data: the first "k" persons (please read "x.csv" for knowing k's value)
