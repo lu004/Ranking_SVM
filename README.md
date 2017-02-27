@@ -2,7 +2,7 @@
 ランキング機会学習利用して最適のオブジェクト推薦
 # item x: ("x.csv")
 x has feature values
-a label of grade-level y
+and a grade-level y (at the same row in "y.csv")
 # grade-level y: ("y.csv")
 y consists of grade (the first) and query id (the second)
 # task
