@@ -1,7 +1,6 @@
 # ranking SVM (python)
 ランキング機会学習利用して最適のオブジェクト推薦
-- to recommend a item x
-from a set of items {x}
+to recommend a item x from a set of items {x}
 # item x: ("x.csv")
 x has feature values
 a label of grade-level y
