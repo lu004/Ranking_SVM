@@ -14,8 +14,7 @@ y consists of grade (the first) and query id (the second)
 - this is implemented by using machine learning tool "scikit-learn"
 - (optional) pca for reducing feature dimension
 - (optional) baseline method for this task: finding most simimlar items (in test data) with items of high grade (in the train data)
-- train data: all x,y
-- test data: please refer to "main.py"
+- train/test data: please refer to "main.py"
 
 2017/02/27
 Jun-Li Lu
