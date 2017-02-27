@@ -16,4 +16,5 @@ to recommend a item x from a set of items {x}
 - (optional) pca for reducing feature dimension
 - (optional) baseline method for this task:
 - finding most simimlar items (in test data) with items of high grade (in the train data)
+
 2017/02/27
