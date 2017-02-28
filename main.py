@@ -28,7 +28,7 @@ r=r_predict(rsvm,x[test])
 
 import pylab as pl
 pl.scatter(r[:,0],r[:,1])
-pl.plot([0,r[4,1]],[88,r[4,1]],'k--',lw=2)
+pl.plot([0,len(r)],[r[4,1],r[4,1]],'k--',lw=2)
 pl.xlabel('c_id')
 pl.ylabel('score')
 pl.show()
