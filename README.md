@@ -1,7 +1,7 @@
 ## ranking SVM (python)
 ## task
 ランキング機械学習利用して最適なオブジェクト推薦  
-to ranking each item in x based on training data x
+to ranking each item in x based on training items x
 ## method
 - item x: ("x.csv") x has feature values and a grade-level y (at the same row in "y.csv")
 - grade-level y: ("y.csv") y consists of grade (the first) and query id (the second)
