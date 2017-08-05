@@ -1,5 +1,5 @@
 # ranking SVM (python)
-ランキング機械学習利用して最適のオブジェクト推薦
+ランキング機械学習利用して最適なオブジェクト推薦
 # task
 to recommend a item x from a set of items {x}
 # item x: ("x.csv")
