@@ -2,11 +2,9 @@
 ## task
 ランキング機械学習利用して最適なオブジェクト推薦  
 to recommend a item x from a set of items {x}  
-- item x: ("x.csv")
-x has feature values and a grade-level y (at the same row in "y.csv")
-- grade-level y: ("y.csv")
-y consists of grade (the first) and query id (the second)
 ## method
+- item x: ("x.csv") x has feature values and a grade-level y (at the same row in "y.csv")
+- grade-level y: ("y.csv") y consists of grade (the first) and query id (the second)
 - one x or one y is one row in "csv" file
 - ranking SVM is implemented based on "pair-wise" approach
 - items are compared if items are in the same query id
