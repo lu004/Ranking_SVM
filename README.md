@@ -1,4 +1,4 @@
-## ranking SVM (python)
+## ranking SVM
 ## task
 ランキング機械学習利用して最適なオブジェクト推薦  
 to ranking each item in x based on training items x
