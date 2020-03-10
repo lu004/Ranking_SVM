@@ -1,8 +1,10 @@
 ## Ranking SVM
-## task
+
+## Task
 ランキング機械学習利用して最適なオブジェクト推薦  
 to ranking each item in x based on training items x
-## method
+
+## Method
 - item x: ("x.csv") x has feature values and a grade-level y (at the same row in "y.csv")
 - grade-level y: ("y.csv") y consists of grade (the first) and query id (the second)
 - one x or one y is one row in "csv" file
@@ -12,5 +14,3 @@ to ranking each item in x based on training items x
 - (optional) pca for reducing feature dimension
 - (optional) baseline method for this task: finding most simimlar items (in test data) with items of high grade (in the train data)
 - train/test data: please refer to "main.py"
-
-2017/02/27
