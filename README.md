@@ -1,4 +1,4 @@
-## Ranking SVM
+# Ranking SVM
 
 Rank each item by "pair-wise" approach
 
